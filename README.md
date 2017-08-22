@@ -1,2 +1,1 @@
-# DesktopEx
-Example Repository for Desktop
+# SADA_GUI
